@@ -77,7 +77,7 @@ Create a Trello account and a board to match, share the board with the the team 
 - It is up to you to determine what information is necessary to add to the tickets. 
 
 ### Task 2: Test Quality Analysis
-[Mirror](https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository) the repository to your own account. It has to be a private repository and that once you are done add [Orestes Sebele/orestes-za](orestes@socialplaces.io), [James Filmer/socialPJames](james@socialplaces.io), [Nik Soebaran/N1K-5oc1alplac3s](nik@socialplaces.io), [Matthew Henshilwood/matt-socialplaces](matthew@socialplaces.io) and [Adele Truscott/AdeleSocial](adele@socialplaces.io) as collaborators.
+[Mirror](https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository) the repository to your own account. It has to be a private repository and that once you are done add [Orestes Sebele/orestes-za](orestes@socialplaces.io), [James Filmer/socialPJames](james@socialplaces.io), [Nik Seobaran/N1K-5oc1alplac3s](nik@socialplaces.io), [Matthew Henshilwood/matt-socialplaces](matthew@socialplaces.io) and [Adele Truscott/AdeleSocial](adele@socialplaces.io) as collaborators.
 - Your assessment should be on a seperate branch to master/main
 - Use your preferred client to clone the forked repository
 - Follow the instructions to run your project
