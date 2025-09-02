@@ -1,0 +1,11 @@
+suite_namespace: App\Tests\Api
+actor: ApiTester
+modules:
+    enabled:
+        - REST:
+            url: http://localhost:8000
+            depends: Symfony
+        - Symfony:
+            app_path: 'src'
+        - \App\Tests\Support\Helper\Api
+    step_decorators: ~
