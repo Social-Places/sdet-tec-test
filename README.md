@@ -25,14 +25,9 @@ Welcome to the MiniMart SDET technical assessment! This is a realistic e-commerc
 ```bash
 git clone <repository-url>
 cd minimart-sdet-test
-docker-compose up -d
 ```
 
-2. **Wait for services to be ready (2-3 minutes):**
-```bash
-docker-compose logs -f backend
-# Wait for "Application ready" message
-```
+2. **Follow the setup guide to get going**
 
 3. **Access the application:**
 - Frontend: http://localhost:8082

@@ -22,6 +22,7 @@
 ```bash
 # 1. Start all services
 docker-compose up -d
+docker-compose exec backend ./vendor/bin/codecept build
 
 # 2. Wait for services to be ready (check logs)
 docker-compose logs backend | grep "Application ready"
