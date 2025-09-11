@@ -10,19 +10,12 @@ export default defineConfig({
   use: {
     baseURL: 'http://localhost:8082',
     trace: 'on-first-retry',
-    video: 'on-first-retry',
   },
+
   projects: [
     {
       name: 'chromium',
       use: { ...devices['Desktop Chrome'] },
     },
   ],
-  outputDir: 'test-results/',
-  webServer: {
-    command: 'cd .. && docker-compose up -d',
-    url: 'http://localhost:8082',
-    reuseExistingServer: !process.env.CI,
-    timeout: 120000,
-  },
 });
