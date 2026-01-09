@@ -66,7 +66,7 @@ docker-compose exec frontend npm run test:e2e
 ## 📝 Assessment Tasks
 
 ### Task 1: Bug Discovery
-Create a Trello account and a board to match, share the board with the the team when the assessment is complete. The emails are as follow: adele@socialplaces.io, orestes@socialplaces.io, matthew@socialplaces.io, james@socialpalces.io, nik@socialplaces.io
+Create a Trello account and a board to match, share the board with the the team when the assessment is complete. The emails are as follow: adele@socialplaces.io, orestes@socialplaces.io, matthew@socialplaces.io, james@socialplaces.io, nik@socialplaces.io
 - Board should have the following columns 'Backlog', 'To do', 'Doing', 'Done'. 
 - Explore the application and identify bugs, log these bugs on the Trello board.
 - It is up to you to determine what information is necessary to add to the tickets. 
